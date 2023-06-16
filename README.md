@@ -1,1 +1,1 @@
-Ekran üzerinde çıkan rastgeke kaplumbağları yakala ve puan kazan!
+Ekran üzerinde rastgele konumu belirlenen kaplumbağaları yakala ve puan kazan!
